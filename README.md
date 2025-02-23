@@ -3,7 +3,7 @@ and calling an API from your frontend in React Native. This example uses Axios t
 and Flask to create the endpoints.
 
 You'll see a file called flask-setup.py. For simplicities sake, we suggest copying the code
-in this file, creating a new project on replit.com, and running the API on their servers. 
+in this file, creating a new project on replit.com, pasting it into a file there, and running the API on their servers. 
 
 
 Once you've cloned this app, be sure to:
